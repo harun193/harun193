@@ -4,8 +4,12 @@
 
 
 I'm a passionate web developer who loves building modern, responsive, and user-friendly websites. I specialize in frontend development and WordPress website development. I enjoy transforming creative ideas into beautiful digital experiences using modern web technologies. My skills include WordPress, ReactJS, JavaScript, HTML5, CSS3, and Bootstrap. I am always eager to learn new technologies, solve problems, and improve my development skills. My goal is to create high-quality websites that provide excellent user experiences.
-
-Skills: Skills: 🌐 WordPress ⚛️ ReactJS ⚡ JavaScript 🧱 HTML5 🎨 CSS3 📱 Bootstrap
+ Skills: 🌐 WordPress 
+         ⚛️ ReactJS 
+         ⚡ JavaScript 
+         🧱 HTML5 
+         🎨 CSS3 
+         📱 Bootstrap
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
