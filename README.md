@@ -1,17 +1,21 @@
 ![Web Developer](https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/904606946_122260542926371515_3026826854725492536_n.png?stp=dst-png&cstp=mx851x315&ctp=s851x315&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=1Y7QE2i2QGQQ7kNvwFMDbi9&_nc_oc=AdrzSJ-jBkKKHlzAaEpyGVsEGUEK0wrkqLD4FCnwsrM-w7uz-4DHtU9q8Gzy9txn1WE&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=XeM5VS6I4FPUz6Z69DXh9g&_nc_ss=7b2a8&oh=00_AQRVaJ66u-jmJDYEFj4YPqrR2a4ORMiiQAojrehbwrLMpA&oe=6AFC9647)
 ### Hi there 👋,  I am Harun Or Rashid 
 #### Web Developer
-
-
+🚀 About Me
+<hr>
 I'm a passionate web developer who loves building modern, responsive, and user-friendly websites. I specialize in frontend development and WordPress website development. I enjoy transforming creative ideas into beautiful digital experiences using modern web technologies. My skills include WordPress, ReactJS, JavaScript, HTML5, CSS3, and Bootstrap. I am always eager to learn new technologies, solve problems, and improve my development skills. My goal is to create high-quality websites that provide excellent user experiences.
- 
- Skills: 🌐 WordPress 
-         ⚛️ ReactJS 
-         ⚡ JavaScript 
-         🧱 HTML5 
-         🎨 CSS3 
-         📱 Bootstrap
 
+  👩‍💻Skills & Experiance:
+   <hr>
+         🌐 WordPress <br>
+         ⚛️ ReactJS   <br>
+         ⚡ JavaScript  <br>
+         🧱 HTML5  <br>
+         🎨 CSS3    <br>
+         📱 Bootstrap  <br>
+     <hr> 
+  ☕ Connect with me!
+<hr>
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
