@@ -2,22 +2,19 @@
 ### Hi there 👋,  I am Harun Or Rashid 
 #### Web Developer
 
-####🚀 About Me
-<hr>
+🚀 About Me<hr>
 I'm a passionate web developer who loves building modern, responsive, and user-friendly websites. I specialize in frontend development and WordPress website development. I enjoy transforming creative ideas into beautiful digital experiences using modern web technologies. My skills include WordPress, ReactJS, JavaScript, HTML5, CSS3, and Bootstrap. I am always eager to learn new technologies, solve problems, and improve my development skills. My goal is to create high-quality websites that provide excellent user experiences.
 
 
-  ####👩‍💻Skills & Experiance:
-   <hr>
+  👩‍💻Skills & Experiance:<hr>
          🌐 WordPress <br>
          ⚛️ ReactJS   <br>
          ⚡ JavaScript  <br>
          🧱 HTML5  <br>
          🎨 CSS3    <br>
          📱 Bootstrap  <br>
-     <hr> 
- 🟢Connect with me!
-<hr>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/harun193)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61561145458068)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.harunor.com)  
+      
+ 🟢Connect with me!<hr>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/harun193)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61561145458068)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.harunor.com)  <hr>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
