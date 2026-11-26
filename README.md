@@ -5,14 +5,13 @@
 ❤️ Love to write code
 ✅️ Develop responsive and modern websites.
 
-###🚀 About Me
+🚀 About Me
 <hr>
 I'm a passionate web developer who loves building modern, responsive, and user-friendly websites. I enjoy turning creative ideas into functional digital experiences and continuously learning new technologies to improve my development skills.
 <br><br>
 
-Skills: ###🚀 Skills & Experience: <hr> 🟡 WordPress <br>🟡 JavaScript<br> 🟡 PHP <br>🟡 HTML5 / CSS3 / SASS / Bootstrap<br> 🟡 Photoshop / Illustrator<hr>
-
-- 🔭 I’m currently working on this page. 
+ 🚀 Skills & Experience: <hr> 🟡 WordPress <br>🟡 JavaScript<br> 🟡 PHP <br>🟡 HTML5 / CSS3 / SASS / Bootstrap<br> 🟡 Photoshop / Illustrator<hr>
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/harun193)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harunor//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61561145458068)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/harun.orgd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Beddylux)  
